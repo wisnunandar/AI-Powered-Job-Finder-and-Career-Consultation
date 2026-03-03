@@ -1,4 +1,4 @@
-# Purwadhika Final Project Submission
+# AI Powered Job Finder And Career Consultation Assistant
 This repo is intended to be used for the final project submission of Purwadhika.
 It is owned by Christopher, Iqbal, and Wisnunandar.
 
