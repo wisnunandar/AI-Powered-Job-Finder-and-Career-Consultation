@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Purwadhika Final Project Submission
 This repo is intended to be used for the final project submission of Purwadhika.
 It is owned by Christopher, Iqbal, and Wisnunandar.
