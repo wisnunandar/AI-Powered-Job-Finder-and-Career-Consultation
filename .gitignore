@@ -1,0 +1,4 @@
+/web/.streamlit/
+/api/.env
+/web/__pycache__/
+/api/__pycache__/
