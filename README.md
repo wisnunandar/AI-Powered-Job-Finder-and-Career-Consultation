@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Purwadhika Final Project Submission
 This repo is intended to be used for the final project submission of Purwadhika.
 It is owned by Christopher, Iqbal, and Wisnunandar.
@@ -28,3 +29,7 @@ REST_API_BASE_URL = "http://127.0.0.1:8154"
 REST_API_KEY = "example-api-key"
 ```
 - Then, run `streamlit run main.py` in the `web` directory.
+=======
+# AI-Powered-Job-Finder-and-Career-Consultation
+Chatbot assistant for finding dream job and doing career consultation
+>>>>>>> c03d7e12fd5427e5d67a81afd5234ec6fb940750
